@@ -16,11 +16,11 @@ highlighter: rouge
 
 ### content configuration ###
 title:       "Muhammad H. Khan"
-keywords:    "Muhammad, Khan, cornell, yale, engineering, biomedical, physics, chemistry, biology, phd"
+keywords:    "Muhammad, Khan, cornell, yale, engineering, biomedical, physics, chemistry, biology, computer, programming, phd"
 description: "Biomedical Engineering Ph. D. Student, Yale University"
 source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon: "img/atom.png"
+touch_icon: "img/atom.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
