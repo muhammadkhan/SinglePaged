@@ -186,6 +186,9 @@ nav ul li:hover, nav ul li.active {
   text-align:center;
   background-color:#2e2e2e;
   background-image:none;
+  position: fixed;
+  bottom:0pt;
+  left:0pt;
 }
 #footer .container p { font-size:13px; margin:0; }
 
